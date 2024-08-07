@@ -4,6 +4,10 @@
 	"description": "Aksakal Dark Theme from Caucasus Mountains",
 	"version": "0.0.1",
 	"publisher": "Abdurashidov",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KurbanAbdurashidov/aksakal-dark-theme.git"
+	},
 	"keywords": [
 		"theme",
 		"dark theme",
