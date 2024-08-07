@@ -1,0 +1,29 @@
+{
+	"name": "aksakal-dark-theme",
+	"displayName": "Aksakal Dark Theme",
+	"description": "Aksakal Dark Theme from Caucasus Mountains",
+	"version": "0.0.1",
+	"publisher": "Abdurashidov",
+	"keywords": [
+		"theme",
+		"dark theme",
+		"aksakal",
+		"aksakal theme",
+		"aksakal dark theme"
+	],
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Aksakal Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aksakal Dark Theme-color-theme.json"
+			}
+		]
+	}
+}
